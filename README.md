@@ -1,6 +1,6 @@
 # testcode_training
 
-I am learning how to write testcodes such as unittest, doctest and so on. The repository will be uploaded testcode examples using simple modules
+I am learning how to write testcodes such as unittest, doctest and so on. The repository will be uploaded testcode examples using simple modules.
 
 ## Modules
 
@@ -14,11 +14,11 @@ testcode_training/
 ```
 
 - `unittest_fizzbuzz.py`
-    - Unittest of `FizzBuzz` class in `fizzbuzz.py`
+    - a unittest of `FizzBuzz` class in `fizzbuzz.py`
 - `samples` directory
     - `fizzbuzz.py` includes a simple fizzbuzz class
     - (Other codes will be uploaded sequentially)
-- `README.md` (This file)
+- `README.md` (This document)
 
 ## Usage
 
