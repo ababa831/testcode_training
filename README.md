@@ -1,6 +1,6 @@
 # testcode_training
 
-I am learning how to write testcodes such as unittest, doctest and so on. The repository will be uploaded testcode examples using simple modules.
+I have been learning how to write testcodes such as unittest, doctest and so on. The repository will be uploaded testcode examples using simple modules.
 
 ## Modules
 
