@@ -14,7 +14,7 @@ testcode_training/
 ```
 
 - `unittest_fizzbuzz.py`
-    - a unittest of `FizzBuzz` class in `fizzbuzz.py`
+    - A unittest of `FizzBuzz` class in `fizzbuzz.py`
 - `samples` directory
     - `fizzbuzz.py` includes a simple fizzbuzz class
     - (Other codes will be uploaded sequentially)
