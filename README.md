@@ -23,7 +23,7 @@ testcode_training/
 ## Usage
 
 1. Clone this repository
-2. Run `unittest_fizzbuzz.py` in the cloned directory
+2. Run `unittest_<something>.py` in the cloned directory
 
 A running sample:
 
