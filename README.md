@@ -18,9 +18,9 @@ testcode_training/
 ```
 
 - `unittest_fizzbuzz.py`
-    - A unittest of `FizzBuzz` class in `fizzbuzz.py`
+    - A unittest of the `FizzBuzz` class in `fizzbuzz.py`
 - `samples` directory
-    - `fizzbuzz.py` includes a simple fizzbuzz class
+    - `fizzbuzz.py` includes a simple fizzbuzz calculation code
     - (Other codes will be uploaded sequentially)
 - `README.md` (This document)
 
